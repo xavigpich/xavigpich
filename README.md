@@ -1,7 +1,6 @@
 ### Hi there, I'm Xavi! 👋
 
 <!---![](https://visitor-badge.laobi.icu/badge?page_id=thisisxgp.thisisxgp&left_text=GitHub%20Visitors) -->
-[![X](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/xavigpich)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xgpich/)
 
 ### About Me 
